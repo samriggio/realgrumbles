@@ -1,12 +1,12 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
+name = "The Grumbles"
+description = "I try really hard to look like I don't care."
+keywords = "indie, punk, millenial, anime"
 image = "jake.webp"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+gtag_id = ""
+base_url = "https://samriggio.github.io/realgrumbles"
 
 [[sections]]
 title = "Movies"
