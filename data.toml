@@ -16,7 +16,7 @@ item_style = "outline"
 [[sections.items]]
 title = "A Pretty Bad Good EP"
 description = "Download our first release FREE"
-embed_url = "dist/music/A Pretty Bad Good/The Grumbes - A Pretty Bad Good.zip"
+embed_url = "https://download-directory.github.io?url=https://github.com/samriggio/realgrumbles/tree/main/dist/music/A%20Pretty%20Bad%20Good&filename=The%20Grumbles%20-%20A%20Pretty%20Bad%20Good"
 
 [[sections]]
 title = "Links"
