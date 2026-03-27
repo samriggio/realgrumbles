@@ -1,33 +1,22 @@
 name = "The Grumbles"
-description = "I try really hard to look like I don't care."
-keywords = "indie, punk, millenial, anime"
-image = "mascot blue.png"
+description = "Music, sadness, silliness"
+keywords = "indie, punk, millenial, anime, alternative, indie rock, nerd rock, Colorado Springs, Colorado, Southern Colorado"
+image = "mascotblurred small square.jpg"
 theme = "dark"
-primary_color = "#d81b60"
+primary_color = "#e08a12"
 text_align = "center"
 gtag_id = ""
 base_url = "https://samriggio.github.io/realgrumbles"
 
 [[sections]]
 title = "Music"
-description = "Here are some of my movies"
+description = ""
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
-[[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
-[[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
+title = "A Pretty Bad Good EP"
+description = "Download our first release FREE"
+embed_url = "dist/music/A Pretty Bad Good/The Grumbes - A Pretty Bad Good.zip"
 
 [[sections]]
 title = "Links"
@@ -38,16 +27,9 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+url = "https://instagram.com/realgrumbles"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+icon = "https://cdn.simpleicons.org/bandcamp/ffffff"
+title = "Bandcamp"
+url = "https://thegrumbles.bandcamp.com"
+
